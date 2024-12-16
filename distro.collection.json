@@ -1,106 +1,80 @@
 {
-    "android":
-    {
+    "android": {
         "title": "Android [uname -s] [uname -m] [uname -n]"
     },
-    "arcolinux":
-    {
+    "arcolinux": {
         "title": "Arco[uname -s] [uname -m] [uname -n]"
     },
-    "archlinux":
-    {
+    "archlinux": {
         "title": "Arch [uname -s] [uname -m] [uname -n]"
     },
-    "centos":
-    {
+    "centos": {
         "title": "CentOS [uname -s] [uname -m] [uname -n]"
     },
-    "debian":
-    {
+    "debian": {
         "title": "Debian [uname -s] [uname -m] [uname -n]"
     },
-    "deepin":
-    {
+    "deepin": {
         "title": "deepin [uname -s] [uname -m] [uname -n]"
     },
-    "elementary":
-    {
+    "elementary": {
         "title": "elementary OS [uname -m] [uname -n]"
     },
-    "fedora":
-    {
+    "fedora": {
         "title": "Fedora [uname -s] [uname -m] [uname -n]"
     },
-    "kalilinux":
-    {
+    "kalilinux": {
         "title": "Kali [uname -s] [uname -m] [uname -n]"
     },
-    "linuxmint":
-    {
+    "linuxmint": {
         "title": "[uname -s] Mint [uname -m] [uname -n]"
     },
-    "mageia":
-    {
+    "mageia": {
         "title": "Mageia [uname -s] [uname -m] [uname -n]"
     },
-    "manjaro":
-    {
+    "manjaro": {
         "title": "Manjaro [uname -s] [uname -m] [uname -n]"
     },
-    "opensuse":
-    {
+    "opensuse": {
         "title": "openSUSE [uname -s] [uname -m] [uname -n]"
     },
-    "slackware":
-    {
+    "slackware": {
         "title": "Slackware [uname -s] [uname -m] [uname -n]"
     },
-    "bionic":
-    {
+    "bionic": {
         "title": "Ubuntu 18.04 LTS [uname -m] [uname -n]"
     },
-    "cosmic":
-    {
+    "cosmic": {
         "title": "Ubuntu 18.10 [uname -m] [uname -n]"
     },
-    "disco":
-    {
+    "disco": {
         "title": "Ubuntu 19.04 [uname -m] [uname -n]"
     },
-    "eoan":
-    {
+    "eoan": {
         "title": "Ubuntu 19.10 [uname -m] [uname -n]"
     },
-    "focal":
-    {
+    "focal": {
         "title": "Ubuntu 20.04 LTS [uname -m] [uname -n]"
     },
-    "groovy":
-    {
+    "groovy": {
         "title": "Ubuntu 20.10 [uname -m] [uname -n]"
     },
-    "hirsute":
-    {
+    "hirsute": {
         "title": "Ubuntu 21.04 [uname -m] [uname -n]"
     },
-    "impish":
-    {
+    "impish": {
         "title": "Ubuntu 21.10 [uname -m] [uname -n]"
     },
-    "jammy":
-    {
+    "jammy": {
         "title": "Ubuntu 22.04 LTS [uname -m] [uname -n]"
     },
-    "kinetic":
-    {
+    "kinetic": {
         "title": "Ubuntu 22.10 [uname -m] [uname -n]"
     },
-    "lunar":
-    {
+    "lunar": {
         "title": "Ubuntu 23.04 [uname -m] [uname -n]"
     },
-    "mantic":
-    {
+    "mantic": {
         "title": "Ubuntu 23.10 [uname -m] [uname -n]"
     }
 }
