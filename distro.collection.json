@@ -11,6 +11,9 @@
     "centos": {
         "title": "CentOS [uname -s] [uname -m] [uname -n]"
     },
+    "chromeos": {
+        "title": "Google Chrome OS [uname -m] [uname -n]"
+    },
     "debian": {
         "title": "Debian [uname -s] [uname -m] [uname -n]"
     },
@@ -22,6 +25,9 @@
     },
     "fedora": {
         "title": "Fedora [uname -s] [uname -m] [uname -n]"
+    },
+    "firefoxos": {
+        "title": "Mozilla Firefox OS [uname -m] [uname -n]"
     },
     "kalilinux": {
         "title": "Kali [uname -s] [uname -m] [uname -n]"
