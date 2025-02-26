@@ -1,0 +1,86 @@
+{
+    "android": {
+        "title": "Android [uname -s] [uname -m] [uname -n]"
+    },
+    "arcolinux": {
+        "title": "Arco[uname -s] [uname -m] [uname -n]"
+    },
+    "archlinux": {
+        "title": "Arch [uname -s] [uname -m] [uname -n]"
+    },
+    "centos": {
+        "title": "CentOS [uname -s] [uname -m] [uname -n]"
+    },
+    "chromeos": {
+        "title": "Google Chrome OS [uname -m] [uname -n]"
+    },
+    "debian": {
+        "title": "Debian [uname -s] [uname -m] [uname -n]"
+    },
+    "deepin": {
+        "title": "deepin [uname -s] [uname -m] [uname -n]"
+    },
+    "elementary": {
+        "title": "elementary OS [uname -m] [uname -n]"
+    },
+    "fedora": {
+        "title": "Fedora [uname -s] [uname -m] [uname -n]"
+    },
+    "firefoxos": {
+        "title": "Mozilla Firefox OS [uname -m] [uname -n]"
+    },
+    "kalilinux": {
+        "title": "Kali [uname -s] [uname -m] [uname -n]"
+    },
+    "linuxmint": {
+        "title": "[uname -s] Mint [uname -m] [uname -n]"
+    },
+    "mageia": {
+        "title": "Mageia [uname -s] [uname -m] [uname -n]"
+    },
+    "manjaro": {
+        "title": "Manjaro [uname -s] [uname -m] [uname -n]"
+    },
+    "opensuse": {
+        "title": "openSUSE [uname -s] [uname -m] [uname -n]"
+    },
+    "slackware": {
+        "title": "Slackware [uname -s] [uname -m] [uname -n]"
+    },
+    "bionic": {
+        "title": "Ubuntu 18.04 LTS [uname -m] [uname -n]"
+    },
+    "cosmic": {
+        "title": "Ubuntu 18.10 [uname -m] [uname -n]"
+    },
+    "disco": {
+        "title": "Ubuntu 19.04 [uname -m] [uname -n]"
+    },
+    "eoan": {
+        "title": "Ubuntu 19.10 [uname -m] [uname -n]"
+    },
+    "focal": {
+        "title": "Ubuntu 20.04 LTS [uname -m] [uname -n]"
+    },
+    "groovy": {
+        "title": "Ubuntu 20.10 [uname -m] [uname -n]"
+    },
+    "hirsute": {
+        "title": "Ubuntu 21.04 [uname -m] [uname -n]"
+    },
+    "impish": {
+        "title": "Ubuntu 21.10 [uname -m] [uname -n]"
+    },
+    "jammy": {
+        "title": "Ubuntu 22.04 LTS [uname -m] [uname -n]"
+    },
+    "kinetic": {
+        "title": "Ubuntu 22.10 [uname -m] [uname -n]"
+    },
+    "lunar": {
+        "title": "Ubuntu 23.04 [uname -m] [uname -n]"
+    },
+    "mantic": {
+        "title": "Ubuntu 23.10 [uname -m] [uname -n]"
+    }
+}
