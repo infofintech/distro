@@ -1,86 +1,77 @@
 {
-    "android": {
-        "title": "Android [uname -s] [uname -m] [uname -n]"
+    "000": {
+        "title": "Dutch East India Company",
+        "language": {
+            "AE": "شركة شرق الهند الهولندية",
+            "BY": "Галандская Ост-Індская кампанія",
+            "CH": "Imperialismo Europeene",
+            "CN": "荷兰东印度公司：史上第一家跨国公司",
+            "CY": "Ολλανδική Εταιρεία Ανατολικής Ινδίας",
+            "GR": "Ολλανδική Εταιρεία Ανατολικής Ινδίας",
+            "IQ": "شركة شرق الهند الهولندية",
+            "IR": "شركة شرق الهند الهولندية",
+            "JP": "オランダ東インド会社: 史上初の多国籍企業",
+            "KP": "네덜란드 동인도 회사: 최초의 다국적 기업",
+            "KR": "네덜란드 동인도 회사: 최초의 다국적 기업",
+            "KW": "شركة شرق الهند الهولندية",
+            "QA": "شركة شرق الهند الهولندية",
+            "RR": "Нидерландская Остъиндская купеческая дружина",
+            "RU": "Голландская Ост-Индская компания",
+            "SA": "شركة شرق الهند الهولندية",
+            "SP": "Imperialismo Europeene",
+            "TW": "荷蘭東印度公司：史上第一家跨國公司",
+            "UA": "Голландська Ост-Індська компанія",
+            "VA": "Imperialismo Europeene"
+        }
     },
-    "arcolinux": {
-        "title": "Arco[uname -s] [uname -m] [uname -n]"
+    "001": {
+        "title": "Meiji Restoration in Japan",
+        "language": {
+            "AE": "استعادة ميجي اليابانية",
+            "BY": "Рэстаўрацыя Мэйдзі ў Японіі",
+            "CH": "Imperialismo Giapponese",
+            "CN": "明治维新与西方世界影响时期的日本",
+            "CY": "Αποκατάσταση Μεϊτζί στην Ιαπωνία",
+            "GR": "Αποκατάσταση Μεϊτζί στην Ιαπωνία",
+            "IQ": "استعادة ميجي اليابانية",
+            "IR": "استعادة ميجي اليابانية",
+            "JP": "明治維新と西洋の影響下における日本",
+            "KP": "메이지 유신과 일본의 서구 세계 영향 시대",
+            "KR": "메이지 유신과 일본의 서구 세계 영향 시대",
+            "KW": "استعادة ميجي اليابانية",
+            "QA": "استعادة ميجي اليابانية",
+            "RR": "Возобновление светлого владства въ Японии",
+            "RU": "Реставрация Мэйдзи в Японии",
+            "SA": "استعادة ميجي اليابانية",
+            "SP": "Imperialismo Giapponese",
+            "TW": "明治維新與西方世界影響時期的日本",
+            "UA": "Реставрація Мейдзі в Японії",
+            "VA": "Imperialismo Giapponese"
+        }
     },
-    "archlinux": {
-        "title": "Arch [uname -s] [uname -m] [uname -n]"
-    },
-    "centos": {
-        "title": "CentOS [uname -s] [uname -m] [uname -n]"
-    },
-    "chromeos": {
-        "title": "Google Chrome OS [uname -m] [uname -n]"
-    },
-    "debian": {
-        "title": "Debian [uname -s] [uname -m] [uname -n]"
-    },
-    "deepin": {
-        "title": "deepin [uname -s] [uname -m] [uname -n]"
-    },
-    "elementary": {
-        "title": "elementary OS [uname -m] [uname -n]"
-    },
-    "fedora": {
-        "title": "Fedora [uname -s] [uname -m] [uname -n]"
-    },
-    "firefoxos": {
-        "title": "Mozilla Firefox OS [uname -m] [uname -n]"
-    },
-    "kalilinux": {
-        "title": "Kali [uname -s] [uname -m] [uname -n]"
-    },
-    "linuxmint": {
-        "title": "[uname -s] Mint [uname -m] [uname -n]"
-    },
-    "mageia": {
-        "title": "Mageia [uname -s] [uname -m] [uname -n]"
-    },
-    "manjaro": {
-        "title": "Manjaro [uname -s] [uname -m] [uname -n]"
-    },
-    "opensuse": {
-        "title": "openSUSE [uname -s] [uname -m] [uname -n]"
-    },
-    "slackware": {
-        "title": "Slackware [uname -s] [uname -m] [uname -n]"
-    },
-    "bionic": {
-        "title": "Ubuntu 18.04 LTS [uname -m] [uname -n]"
-    },
-    "cosmic": {
-        "title": "Ubuntu 18.10 [uname -m] [uname -n]"
-    },
-    "disco": {
-        "title": "Ubuntu 19.04 [uname -m] [uname -n]"
-    },
-    "eoan": {
-        "title": "Ubuntu 19.10 [uname -m] [uname -n]"
-    },
-    "focal": {
-        "title": "Ubuntu 20.04 LTS [uname -m] [uname -n]"
-    },
-    "groovy": {
-        "title": "Ubuntu 20.10 [uname -m] [uname -n]"
-    },
-    "hirsute": {
-        "title": "Ubuntu 21.04 [uname -m] [uname -n]"
-    },
-    "impish": {
-        "title": "Ubuntu 21.10 [uname -m] [uname -n]"
-    },
-    "jammy": {
-        "title": "Ubuntu 22.04 LTS [uname -m] [uname -n]"
-    },
-    "kinetic": {
-        "title": "Ubuntu 22.10 [uname -m] [uname -n]"
-    },
-    "lunar": {
-        "title": "Ubuntu 23.04 [uname -m] [uname -n]"
-    },
-    "mantic": {
-        "title": "Ubuntu 23.10 [uname -m] [uname -n]"
+    "002": {
+        "title": "Le [french] du [title^1]",
+        "language": {
+            "AE": "[french] في عهد [title^1] الثامن",
+            "BY": "[french] [title^1]",
+            "CH": "Imperialismo Bonapartisme",
+            "CN": "《[title^1]》巴的 [french]日",
+            "CY": "[french] του [title^1]",
+            "GR": "[french] του [title^1]",
+            "IQ": "[french] في عهد [title^1] الثامن",
+            "IR": "[french] في عهد [title^1] الثامن",
+            "JP": "《[title^1]》の [french]日",
+            "KP": "[title^1] [french]일",
+            "KR": "[title^1] [french]일",
+            "KW": "[french] في عهد [title^1] الثامن",
+            "QA": "[french] في عهد [title^1] الثامن",
+            "RR": "[french] [title^1]",
+            "RU": "[french] [title^1]",
+            "SA": "[french] في عهد [title^1] الثامن",
+            "SP": "Imperialismo Bonapartisme",
+            "TW": "《[title^1]》巴的 [french]日",
+            "UA": "[french] [title^1]",
+            "VA": "Imperialismo Bonapartisme"
+        }
     }
 }
